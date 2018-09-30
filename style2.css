@@ -5,13 +5,14 @@
     /* border: 1px solid black; */
     height: 500px;
     background-color: none;
-    text-align: center;  
+    text-align: center;
+  
 }
 
-.aboutme {
+.contact {
     height: 500px;
     background-color: lightgray;
-    opacity: 0.9;
+    opacity: 0.7;
     border: 1px solid black;
     text-align: center;
     font-family: quicksand; 
@@ -20,7 +21,7 @@
 
 body {
     margin: auto;
-    background-image: url("../../images/trees.jpg");
+    background-image: url("../../images/sand.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
