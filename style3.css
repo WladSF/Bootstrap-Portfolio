@@ -51,4 +51,16 @@ footer {
 footer i {
     font-size: 200%;
     padding: 0 20px;
+    color: white;
+}
+
+.twopics {
+    margin-bottom: 10px;
+    position: relative;
+    
+}
+
+.twopics img  {
+    margin-right: 10px;
+    border: solid 2px #777777;   
 }
