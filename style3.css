@@ -9,6 +9,12 @@
   
 }
 
+a.nav-link {
+    border-right: solid black 1px;
+    padding: 0 15px;
+
+}
+
 .portfolio {
     height: 500px;
     background-color: lightgray;
@@ -16,8 +22,9 @@
     border: 1px solid black;
     text-align: center;
     font-family: quicksand; 
+    margin: 0 auto;
+    margin-top: 50px;;
 }
-
 
 body {
     margin: auto;
@@ -25,10 +32,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.row {
-    margin-top: 50px;
 }
 
 footer {
@@ -43,4 +46,9 @@ footer {
     text-align: center;
     border-top: 5px solid #4aaaa5;  
      
+}
+
+footer i {
+    font-size: 200%;
+    padding: 0 20px;
 }

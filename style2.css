@@ -2,11 +2,16 @@
     font-family: quicksand;
 }
 .pic{
-    /* border: 1px solid black; */
     height: 500px;
     background-color: none;
     text-align: center;
   
+}
+
+a.nav-link {
+    border-right: solid black 1px;
+    padding: 0 15px;
+    
 }
 
 .contact {
@@ -16,6 +21,7 @@
     border: 1px solid black;
     text-align: center;
     font-family: quicksand; 
+    margin: 0 auto;
 }
 
 
@@ -43,4 +49,10 @@ footer {
     text-align: center;
     border-top: 5px solid #4aaaa5;  
      
+}
+
+footer i:hover {
+    font-size: 200%;
+    padding: 0 20px;
+    color: blue;
 }
